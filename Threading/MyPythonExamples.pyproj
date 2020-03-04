@@ -5,7 +5,7 @@
     <ProjectGuid>add5adb1-a4de-4127-87a8-3b11c0fef7da</ProjectGuid>
     <ProjectHome>
     </ProjectHome>
-    <StartupFile>Lock_thread.py</StartupFile>
+    <StartupFile>threading_Queue.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -47,6 +47,15 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="Simple_Thread.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="threading_module.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="threading_Queue.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="threading_sync.py">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>
