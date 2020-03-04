@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.705
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "MyPythonExamples", "MyPythonExamples.pyproj", "{ADD5ADB1-A4DE-4127-87A8-3B11C0FEF7DA}"
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "MyPythonExamples", "Threading\MyPythonExamples.pyproj", "{ADD5ADB1-A4DE-4127-87A8-3B11C0FEF7DA}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PythonSocket", "PythonSocket\PythonSocket.pyproj", "{9C115CCD-1FBF-423D-8022-10877949AEF8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,6 +15,8 @@ Global
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{ADD5ADB1-A4DE-4127-87A8-3B11C0FEF7DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{ADD5ADB1-A4DE-4127-87A8-3B11C0FEF7DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C115CCD-1FBF-423D-8022-10877949AEF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C115CCD-1FBF-423D-8022-10877949AEF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
